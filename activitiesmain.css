@@ -1,0 +1,95 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	padding:0;
+	margin: 0;
+}
+
+.mauxanh{
+	color: rgba(6,122,60,1.00);
+}
+
+.navbar{
+	background-color: rgba(0,47,26,0.38);
+	width: 100%;
+}
+
+.banner{
+	background-image: url("kasturi-laxmi-mohit-uv6lUONd19w-unsplash.jpg");
+	height: 90vh;
+	background-position: center top;
+  	background-repeat: no-repeat;
+  	background-size: cover !important;
+	background-attachment: fixed;
+}
+
+.nutbam{
+	background-color: rgba(6,122,60,1.00);
+	border: none;
+	padding: 5px 20px;
+	color: white;
+}
+
+.vienmuiten{
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	opacity: 1;
+	position: absolute;
+	top: 45%;
+	background-color: rgba(6,122,60,1.00);
+}
+
+.vientrai{
+	left: -20px;
+}
+
+.vienphai{
+	right: -20px;
+}
+
+.socialmedia a{
+	margin: 5px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+	color:rgba(32,32,32,1.00);
+}
+
+.chunho{
+	font-size: 12px;
+}
+
+.donatebg{
+	background-image: url("nathan-anderson-PdPKIkd1L9g-unsplash.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 65vh;
+	
+}
+
+.contact{
+  margin-top: -5rem !important;
+}
+
+footer{
+	background-image: url("footerbackground.png");
+	background-repeat: no-repeat;
+  	background-size: cover !important;
+	background-position: center bottom;
+}
+
+.foresthome img{
+	border-radius: 50%;
+	width: 100%;
+}
+
+.chuhomeplant{
+	font-size: 18px;
+}
+
+.foresthome button:hover{
+	background-color:rgba(6,122,60,1.00);
+	color: white;
+}

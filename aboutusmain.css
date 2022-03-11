@@ -1,0 +1,71 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	padding:0;
+	margin: 0;
+}
+
+
+.mauxanh{
+	color: rgba(6,122,60,1.00);
+}
+
+.navbar{
+	background-color: rgba(0,47,26,0.38);
+	width: 100%;
+}
+
+
+
+.banner{
+	background-image: url("aboutusbanner2.png");
+	height: 90vh;
+	background-position: center top;
+  	background-repeat: no-repeat;
+  	background-size: cover !important;
+	background-attachment: fixed;
+	
+}
+
+.nutbam{
+	background-color: rgba(6,122,60,1.00);
+	border: none;
+	padding: 5px 20px;
+	color: white;
+	
+}
+
+.socialmedia a{
+	margin: 5px;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+	color:rgba(32,32,32,1.00);
+
+}
+
+.donatebg{
+	background-image: url("nathan-anderson-PdPKIkd1L9g-unsplash.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 65vh;
+	
+}
+
+.contact{
+  margin-top: -5rem !important;
+	
+}
+
+.chunho{
+	font-size: 12px;
+}
+
+footer{
+	background-image: url("footerbackground.png");
+	background-repeat: no-repeat;
+  	background-size: cover !important;
+	
+	background-position: center bottom;
+}
